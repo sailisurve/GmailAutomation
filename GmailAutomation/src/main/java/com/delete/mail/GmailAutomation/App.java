@@ -21,8 +21,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        String emailId ="sailisurve01@gmail.com";
-        String password ="bvuo rrde ypjc ztlg";
+        String emailId ="XXXXXXXXXXXXX@gmail.com";
+        String password ="XXXX XXXX XXXX ";
         String host ="imap.gmail.com";
         String port="993";
     deleteMails(emailId,password,host,port);
